@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Alexander",
+        "bio": "<p>My name is David Alexander, and I want to work for the U.S. Fish & Wildlife Service (FWS). My academic credentials include a B.S. in Biology with a minor in Philosophy from Valdosta State University, from which I graduated in 1998. I also received a M.S. in Botany in 2005 from the University of Wisconsin-Madison. After interludes of professional experience as a biological field technician, environmental consultant, and educator, I soon realized that I wanted to be a natural resource manager. This is where I feel my skills and passion as an ecologist would be most useful and fulfilling.</p><p>I am now enrolled in the Master of Natural Resources online program at Virginia Tech in order to retool for a career at the FWS. I was fortunate enough to be accepted into the Pathways Program through a position at the Asheville Ecological Services Office. As a biological Pathways intern, I get to work with a diversity of ecosystems, projects, and people in my field of interest. Notably, I have become involved in the restoration of Southern Appalachian Bogs, working intensively with the new Mountain Bogs National Wildlife Refuge. </p><p>Educational outings where we teach and connect young people with nature have also been really rewarding. I am particularly excited to be able to participate in rare species surveys that have taken me across the western North Carolina landscape. I am on track to graduate this winter and am looking forward to the possibility of a lasting career at the FWS.</p>",
+        "office": "Asheville, North Carolina Ecological Services Field Office",
+        "address": "160 Zillicoa Street",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801",
+        "url": "http://www.fws.gov/asheville",
+        "facebook": "https://www.facebook.com/USFWS.NC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.568402,
+          35.61043199910648
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Jonathan Baxter",
+        "bio": "<p>My name is Jonathan Baxter, and I am currently stationed in the Kentucky Ecological Services Field Office in Frankfort.  Initially, I became interested in and volunteered with the FWS while completing my undergraduate degree in wildlife management at Eastern Kentucky University (EKU).  During my time as a volunteer, I assisted office staff in field surveys for the Kentucky arrow darter (KAD), which eventually redirected my career plans away from law enforcement officer and toward the field of conservation.  Assisting with the range-wide KAD distributional survey changed my perspective of wildlife, sparking an interest in conservation, and led me to enroll in the graduate program at EKU.  My graduate project is funded by the FWS and the Kentucky Department of Fish and Wildlife Resources and focuses on the movement, distribution, and population dynamics of KADs in two occupied streams. </p><p>Currently, I am working on a variety of project-specific (pre-development) section 7 consultations, Partners for Fish and Wildlife projects and cooperative agreements, and prescribed fire projects with a variety of partners.  Additional ongoing projects include completing an environmental assessment for a potential reintroduction of the American burying beetle, sampling for KADs and updating occurrence records, and drafting a status review for the blackfin sucker, a petitioned species. </p><p>My long-term aspirations in the FWS are to become a Partners for Fish and Wildlife biologist and eventually serve as a state private lands program coordinator.</p>",
+        "office": "Kentucky Ecological Services Field Office",
+        "city": "Frankfort",
+        "state": "Kentucky",
+        "zip": "40601",
+        "url": "http://www.fws.gov/frankfort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.877742,
+          38.20064899908284
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Angel G. Colón-Santiago",
+        "bio": "<p>My name is Angel Colón-Santiago, and I’m from Ponce, Puerto Rico.  I'm enrolled in a master’s program in Environmental Biology at the Inter American University of Puerto Rico, San Germán Campus.  Currently, I work as an intern in the Caribbean Ecological Services Field Office located at Cabo Rojo, Puerto Rico, and also, I am a member of the Army National Guard.</p><p>I believe that doing an internship gives you grounded experience of what your degree might look like in a real work environment.  Internships also give you valuable understanding about the career you have chosen, and what a better place for a biologist to do that in Puerto Rico than the Caribbean Ecological Services Field Office (CESFO). That’s why I wanted to be a Fish and Wildlife Intern.</p><p>Most of my work in the CESFO office is to collaborate with senior biologists on project evaluation under Section 7 of the Endangered Species Act.  I also keep up the Tracking and Integrated Logging System (TAILS) and work with the Partners for Fish and Wildlife Program; draft agreements and conduct site visits for the Sun to Coffee Shade Conversion Initiative, among other things.  In the next few months, I will be working more with the Endangered Species Program on a project for the sharp-shinned hawk, and I am really excited about it.</p><p>I would like to become a biologist for the FWS, since it is a great career, and work with others to conserve and protect our natural resources.</p>",
+        "office": "Caribbean Ecological Services Field Office",
+        "city": "Boqueron",
+        "state": "Puerto Rico",
+        "url": "http://www.fws.gov/caribbean/ES/",
+        "facebook": "https://www.facebook.com/USFWSCaribbean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.168362,
+          17.97940299944537
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michelle Fleming",
+        "bio": "<p>My name is Michelle Fleming, and I am from Benton, Arkansas. I attend Arkansas Tech University in the city of Russellville, majoring in Fisheries and Wildlife Science. I work in the Arkansas Field Office located in Conway, Arkansas. I wanted to be a FWS intern so I can gain valuable career-oriented experience. I also wanted a job I’d enjoy while earning my B.S. degree. </p><p>I work on many projects in and out of the office. I spend most of my time in the office writing technical assistance letters and informal consultation letters to many corporations that are working on projects in the state. Throughout the summer, I get to venture out of the office and help out in the field. I spend most of my time on the rivers carrying out muscle surveys and Ozark Hellbender surveys. During the winter, I helped out with the Golden Eagle project. We set game cameras out in various locations in Arkansas overlooking a bait station, hoping to capture a Golden Eagle on camera. </p><p>My career aspirations after I graduate with my B.S. degree would be to attain a masters in research related to fisheries or wildlife. Ultimately, I would like to work with either the FWS or U.S. Forest Service as a biologist. My inspiration to become a biologist would have to be my dad. He inspired me to respect and enjoy the outdoors and all it has to offer.</p>",
+        "office": "Arkansas Ecological Services Field Office",
+        "city": "Conway",
+        "state": "Arkansas",
+        "zip": "72032",
+        "url": "http://www.fws.gov/arkansas-es",
+        "facebook": "https://www.facebook.com/pages/Arkansas-Ecological-Services-Field-Office/446739728815636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.168362,
+          17.97940299944537
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Granstaff",
+        "bio": "<p>My name is Emily Granstaff, and I am stationed at the Tennessee Ecological Services Field Office in Cookeville, TN.  I have almost completed my M.S. in Biology at Tennessee Technological University.  For my research thesis, I assessed aquatic habitat fragmentation from dams and developed a GIS-based prioritization tool to identify the highest priority dams to remove in the Tennessee and Cumberland River basins.</p><p>For the FWS, I work on a variety of GIS projects for the Southeast Aquatic Resources Partnership (SARP).  SARP is a 14-state partnership among state and federal agencies working to protect and restore aquatic resources in the Southeast.  I have worked on the Southeast Riparian Assessment, the Risk of Flow Alteration Assessment, and the Southeast Aquatic Connectivity Assessment.  I am currently working on a Fish Barrier Inventory for Region 4 and a regional stream temperature monitoring project. </p><p>I initially wanted to become a FWS intern because the position presented an opportunity to combine GIS and technology with conservation to answer questions and solve problems.  I was also interested in the FWS because it was an agency with a great mission and the resources to make an impact on the landscape.  I would like to continue to work for the FWS after graduation as a Biologist to continue to apply GIS and technology for the mission of the FWS.  I also hope to focus on fish barrier removals to aide in the recovery of listed species.</p>",
+        "office": "Tennessee Ecological Services Field Office",
+        "city": "Cookeville",
+        "state": "Tennessee",
+        "zip": "38501",
+        "url": "http://www.fws.gov/cookeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.497833,
+          36.13843899910107
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Amber Kivett",
+        "bio": "<p>My name is Amber Kivett, and I am an administrative Pathways intern with the Asheville Field Office. I am currently working toward an MBA from Western Governors University. Some of my duties as an administrative intern include answering and directing phone calls, receiving office guests, digitizing documents, managing the mail station, tracking fleet maintenance, and purchasing items for office and field activities. I provide organizational support as well, managing the office and field supply closets, restocking printer supplies, and recycling.</p><p>In addition to my office duties, I have been fortunate enough to assist biologists with fieldwork and community outreach. I have helped with the propagation of a rare plant called Virginia spiraea by collecting cuttings and preparing them for transplantation. I have also helped fifth-grade students use “D” nets and a kick seine to find macroinvertebrates like stonefly nymphs, riffle beetles, and crayfish.</p><p>Working in the field of conservation has enhanced my perception of nature and has alerted me to the importance of each species’ role in the ecosystem. My goal is to become a permanent employee with the FWS working in an administrative capacity. I am certain that my internship experience will serve me well in my future endeavors.</p>",
+        "office": "Asheville, North Carolina Ecological Services Field Office",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801",
+        "url": "http://www.fws.gov/asheville",
+        "facebook": "https://www.facebook.com/USFWS.NC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.568402,
+          35.61043199910648
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Conrad Lamar",
+        "bio": "<p>Hello, my name is Conrad Lamar. I’m a senior currently attending Clayton State University in Morrow, GA, where I’m working on my Bachelor’s degree in Political Science. I’m a veteran of the U.S. Navy where I served as a quartermaster in Bremerton, WA onboard the aircraft carrier USS Carl Vinson (CVN 70). As a quartermaster, my primary duty was navigating the ship using GPS systems, VMS (Voyage management systems), and other navigation systems to safely navigate the ship through the treacherous oceans of the world.</p><p>After my service, I started attending college and worked full time at Ken’s Foods Inc. as a process quality control coordinator. My training that I received in the Navy on “attention to detail” really paid off here because part of my job was to do visual inspections of equipment. Here I gained valuable experience working with management and the crewmembers of the team. I worked there for 7 years.</p><p>When I finished my military service, I knew that I wanted to continue my service with the federal government, I just didn’t know where. I was lucky enough to be picked as a Pathway student with the Refuges side of the FWS. I currently work for facilities, and we are responsible for the overall maintenance of the buildings, roads, dams, and other structural buildings that make up a refuge. We use two main database systems called SAMMS and FBMS. These systems help us keep updated information about our assets, cost, and projects that are being worked on.</p>",
+        "office": "Regional Office, Refuges",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30345",
+        "url": "http://www.fws.gov/southeast",
+        "facebook": "http://facebook.com/usfwssoutheast",
+        "twitter": "http://twitter.com/usfwssoutheast",
+        "flickr": "http://www.flickr.com/photos/usfwssoutheast/",
+        "youtube": "http://www.youtube.com/playlist?list=PL5225C01A38A652EA&feature=plcp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.312497,
+          33.84589099912681
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh Lumpkin",
+        "bio": "<p>My name is Hugh Lumpkin.  I am beginning my final year at Arkansas Tech University (ATU), where I am pursuing a M.S. degree in Fisheries and Wildlife Science.  I recently began my internship at the Ecological Services Office in Conway, AR.  I pursued the internship program with the FWS in order to gain experience working under biologists with different specialties and to see where my interests might fit in the future.  I have only recently been hired, so I have not been able to go out on any research projects with the FWS biologists yet.  However, I am currently working on a project with Interior Least Terns (Sterna antillarum athalassos) that involves monitoring rooftop colonies for temperature analysis of chick use of man-made structures.  This project is the third one I’ve worked on dealing with Least Terns, the other two were thesis projects of other graduate students at ATU.</p><p>My career goals seem to continually change as I gain experience in various projects, however I am leaning toward working on the management side at one of the many National Wildlife Refuges in order to keep my hands as dirty as possible.</p><p>My conservation mentors number in the thousands including:  that buck that caused my convulsions in the White River Refuge last November, the mallards that love to land about 75 yards out, the turkeys that gobble and disappear, and countless others that torment me and keep my interest in learning more.  To the wildlife of North America: I salute you.</p>",
+        "office": "Arkansas Ecological Services Field Office",
+        "city": "Conway",
+        "state": "Arkansas",
+        "zip": "72032",
+        "url": "http://www.fws.gov/arkansas-es",
+        "facebook": "https://www.facebook.com/pages/Arkansas-Ecological-Services-Field-Office/446739728815636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.168362,
+          17.97940299944537
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Andreas Moshogianis",
+        "bio": "<p>My name is Andreas Moshogianis (Moss-o-john-iss), and I am from Silver Spring, Maryland.  I am stationed in the Southeast Regional Office (RO) in Atlanta, and I am a listing biologist in the Endangered Species Listing Program as a Pathways student.  I earned my B.S. from the University of Maryland in Environmental Science and Policy with a concentration in Marine and Coastal Management and am almost finished with my M.S. from the University of Southern Mississippi’s Department of Marine Science with a concentration in Biological Oceanography. During my graduate studies, I also worked as an independent contractor for a non-profit as a coastal restoration scientist and marine fisheries biologist and also conducted research for the Deepwater Horizon oil spill and dead zones in the Gulf of Mexico.</p><p>In the RO, I am responsible for handling all actions regarding listing petitions and 90-day findings.  I have been working through the backlog of petitions, initiating reviews, reaching out to field offices (FO) for more information, completing petition review forms, and making 90-day findings and determinations.  I also help prepare and review outreach packages and strategies for 90-day findings.  I am also active in the Endangered Species Act Listing Communications Team calls (a joint effort between Ecological Services and External Affairs on ESA outreach) and am a co-lead in the RO renovation branding-team.</p><p>I am thrilled to be in the RO.  It has been an enlightening experience on the process of listing.  I get to experience early coordination and actions with the FOs, work through listing determinations (FO and RO) and then work on the proposed and final rules (FO/RO/Headquarters).  In addition to listing, the RO has exposed me to various issues and processes for different programs, including EA, Refuges, Information Technology, other aspects of ES (Recovery, Environmental Review, NRDAR), Fisheries, and Budget and Administration.  This exposure has helped me understand and fully appreciate the complex types of work and obstacles we encounter as FWS employees.  In the future, I hope to experience working in a FO and National Wildlife Refuge, expand my knowledge of the agency and skills as a biologist, and earn a manager/supervisory position in the FWS.</p>",
+        "office": "Regional Office, Refuges",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30345",
+        "url": "http://www.fws.gov/southeast",
+        "facebook": "http://facebook.com/usfwssoutheast",
+        "twitter": "http://twitter.com/usfwssoutheast",
+        "flickr": "http://www.flickr.com/photos/usfwssoutheast/",
+        "youtube": "http://www.youtube.com/playlist?list=PL5225C01A38A652EA&feature=plcp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.312497,
+          33.84589099912681
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Matt Snider",
+        "bio": "<p>Hello! My name is Matt Snider, and I work in the Cookeville, TN Ecological Services Field Office. The Region 4 GIS Coordinator, Jason Duke, is my boss and we work under Science Applications. I attend Tennessee Tech University where I am working on a Master’s degree in Professional Science. </p><p>My passion is working with GIS and to be able to apply that to the environment and help make a difference is the reason why I wanted to work for FWS. My weekly tasks range from GIS projects to IT. I have worked on projects involving urbanization, genetics, and land use change. I also do a lot of IT and Tech support which I also enjoy. </p><p>My career goal is to stay with the FWS and become a GIS Analyst or Cartographer. I have started to learn more about spatial statistics and I would love to be able to apply that to my future work.</p>",
+        "office": "Tennessee Ecological Services Field Office",
+        "city": "Cookeville",
+        "state": "Tennessee",
+        "zip": "38501",
+        "url": "http://www.fws.gov/cookeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.497833,
+          36.13843899910107
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Warren Stiles",
+        "bio": "<p>My name is Warren Stiles, and I am currently working on my master’s degree in Fisheries at Auburn University. My thesis focuses on stream ecology and how fish assemblages are affected by water availability. I am a Fish Biology Student Trainee in the Panama City, Florida Field Office. I appreciate this internship position because I have long thought highly of the FWS and the effective conservation carried out by the organization.</p><p>This spring, I was involved in a status survey for two petitioned dragonflies and background research on a few petitioned crayfish species. For the dragonflies, I helped to survey for larvae and adults in the field with a contractor and expanded the documented range of Say’s Spiketail by 5 counties. For the other species, I collected historic records and literature on Westfall’s Clubtail and began drafting a status report.</p><p>As my career progresses, I would like to be in a position where I could continue to work on stream ecology research and the conservation of nongame fishes and stream invertebrates, and do so with the FWS. My love for streams and their denizens has been fostered from childhood by my parents and teachers, but has really been focused by the stream biologists I have gotten to know over the years. In particular, Dr. Bill McLarney at the Land Trust for the Little Tennessee, helped to direct my interest into a desire to do research and make this a career.</p>",
+        "office": "Panama City, Florida Ecological Services Field Office",
+        "city": "Panama City",
+        "state": "Florida",
+        "zip": "32405",
+        "url": "http://www.fws.gov/panamacity",
+        "facebook": "https://www.facebook.com/usfwspanamacity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.675846,
+          30.178169999179513
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Jennifer Valentín-Traverzo",
+        "bio": "<p>My name is Jennifer Valentín-Traverzo.  I attend the Inter American University San Germán Campus in Puerto Rico, majoring in Environmental Science with a concentration in Environmental Biology.  My graduate work will be with the Puerto Rico Department of Natural and Environmental Resources (PRDNER), where I will be studying “MicroHabitat Used by the Parulidae Family in the Ecotone Between the Wetland and a Dry Forest”.</p><p>I started with the FWS, CESFO, Boquerón, Puerto Rico as a volunteer, helping to achieve the goals of the habitat restoration programs (Coastal and Partners for Fish and Wildlife) and Endangered Species Program.  In July 2012, I was converted to a Student Trainee, where I remain today.  Currently, I work for the same FWS habitat restoration programs (Partners for Fish and Wildlife Program and Coastal Program).  As part of my duties, I implement restoration goals of the Sun to Shade Coffee Conversion Initiative partnerships with the Environmental Quality Incentive Program (EQIP) of the USDA Natural Resources Conservation Service (NRCS). I particularly have responsibilities with GIS mapping and certifying implemented habitat restoration practices.  I interact with private landowners and personnel from other agencies to provide technical assistance in the planning, development, and implementation of projects to restore and conserve fish and wildlife habitats on private lands on a daily basis.  I also assist biologists working for the recovery of federally listed species, including implementing habitat restoration recovery actions.</p><p>My career goal and aspiration is to become a permanent Partner for Fish and Wildlife Biologist to conserve, protect,and restore habitats for wildlife.</p>",
+        "office": "Caribbean Ecological Services Field Office",
+        "city": "Boqueron",
+        "state": "Puerto Rico",
+        "url": "http://www.fws.gov/caribbean/ES/",
+        "facebook": "https://www.facebook.com/USFWSCaribbean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.168362,
+          17.97940299944537
+        ]
+      }
+    }
+  ]
+}
