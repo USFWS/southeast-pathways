@@ -13,6 +13,7 @@ $(function() {
   });
 
   getStudents().then(function(data) {
+    console.log(data);
     geojson = data;
     $list.append(template({ students: geojson.features }));
     registerHandler($search, geojson, template, $list);
