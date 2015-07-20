@@ -63,12 +63,12 @@
         <h2>Pathways Students in the Southeast</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero iure ipsam totam et nostrum voluptates quibusdam nisi quisquam similique, quod veniam. Quis ducimus dolorum odio minus nobis consectetur ipsum perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio consectetur ratione ipsam esse, aliquid nemo quidem consequatur expedita, aspernatur rerum nobis vel asperiores quaerat vero mollitia omnis sapiente non, unde!</p>
 
-
         <div class="input-group filter">
           <span class="input-group-addon" id="basic-addon1"><span class="fa fa-search"></span></span>
           <input type="search" class="form-control" placeholder="Filter students..." aria-describedby="basic-addon1">
           <span class="input-group-addon clear">Clear</span>
         </div>
+        <p class="muted text-center"><small>Filter by Name, City, State, or Office or use the <a href="#map">Map <span class="fa fa-arrow-down"></span></a></small></p>
 
         <ul class="student-list"></ul>
 
@@ -78,9 +78,10 @@
           <% _.each(students, function(student) { %>
             <% var student = student.properties; %>
             <li class="list-group-item animated lightSpeedIn clearfix">
-              <img src="http://placehold.it/400x300" alt="">
+              <h3 class="student-heading-top"><%- student.name %></h3>
+              <img src="<%= student.image %>" alt="">
               <div class="narrative">
-                <h3 class="student-heading"><%- student.name %></h3>
+                <h3 class="student-heading-narrative"><%- student.name %></h3>
                 <%= student.bio %>
               </div>
             </li>

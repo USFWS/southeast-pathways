@@ -21,7 +21,7 @@ $(function() {
 });
 
 function getStudents() {
-  return $.getJSON('./data/students.json');
+  return $.getJSON('https://rawgit.com/USFWS/southeast-pathways/master/data/students.json');
 }
 
 function registerHandler(search, geojson, template, list) {
